@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\bin\Debug\001-string.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\bin\Debug\001-string.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\bin\Debug\001-string.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\obj\Debug\001-string.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\obj\Debug\001-string.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\obj\Debug\001-string.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\obj\Debug\001-string.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\001-string\obj\Debug\001-string.pdb
