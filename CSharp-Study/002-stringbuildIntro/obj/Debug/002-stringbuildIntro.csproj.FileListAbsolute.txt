@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\bin\Debug\002-stringbuildIntro.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\bin\Debug\002-stringbuildIntro.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\bin\Debug\002-stringbuildIntro.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\obj\Debug\002-stringbuildIntro.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\obj\Debug\002-stringbuildIntro.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\obj\Debug\002-stringbuildIntro.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\obj\Debug\002-stringbuildIntro.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\002-stringbuildIntro\obj\Debug\002-stringbuildIntro.pdb
