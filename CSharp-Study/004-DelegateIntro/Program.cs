@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _004_DelegateIntro
+namespace _004_DelegateIntro //delegate: methods can be ref in a function
 {
     internal class Program
     {
-        private delegate string GetAString(); //define a delegate
+        private delegate string GetAString(); //define a delegate, it can point to a static or normal method
         private delegate void PrintString();
         static void Main(string[] args)
         {
@@ -19,7 +19,7 @@ namespace _004_DelegateIntro
             //GetAString a = x.ToString; //same as above
 
             ////string s = a(); //get tostring method through delegate a
-            //string s = a.Invoke();//Using method invoke to get the method a ref use 
+            //string s = a.Invoke();//Using method Invoke to get the method a ref use 
 
 
             //Console.WriteLine(s);//call a method through delegate or call a method directly are the same
