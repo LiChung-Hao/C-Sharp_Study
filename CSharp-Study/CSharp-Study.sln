@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-DelegateIntro", "004-De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-Action Delegate", "005-Action Delegate\005-Action Delegate.csproj", "{3181C64B-AAA7-4F24-B29C-E527E913791C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-Func Delegate", "006-Func Delegate\006-Func Delegate.csproj", "{4F9E1F10-1F86-43DF-9BF6-E327DE88F8EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3181C64B-AAA7-4F24-B29C-E527E913791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3181C64B-AAA7-4F24-B29C-E527E913791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3181C64B-AAA7-4F24-B29C-E527E913791C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9E1F10-1F86-43DF-9BF6-E327DE88F8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9E1F10-1F86-43DF-9BF6-E327DE88F8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9E1F10-1F86-43DF-9BF6-E327DE88F8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9E1F10-1F86-43DF-9BF6-E327DE88F8EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
