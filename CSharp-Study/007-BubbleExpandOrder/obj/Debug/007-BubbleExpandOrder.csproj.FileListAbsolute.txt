@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\bin\Debug\007-BubbleExpandOrder.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\bin\Debug\007-BubbleExpandOrder.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\bin\Debug\007-BubbleExpandOrder.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\obj\Debug\007-BubbleExpandOrder.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\obj\Debug\007-BubbleExpandOrder.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\obj\Debug\007-BubbleExpandOrder.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\obj\Debug\007-BubbleExpandOrder.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\007-BubbleExpandOrder\obj\Debug\007-BubbleExpandOrder.pdb

@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\bin\Debug\008-Multicast Delegate.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\bin\Debug\008-Multicast Delegate.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\bin\Debug\008-Multicast Delegate.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\obj\Debug\008-Multicast Delegate.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\obj\Debug\008-Multicast Delegate.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\obj\Debug\008-Multicast Delegate.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\obj\Debug\008-Multicast Delegate.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\008-Multicast Delegate\obj\Debug\008-Multicast Delegate.pdb
