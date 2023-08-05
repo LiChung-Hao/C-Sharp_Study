@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29E0C382-6837-4121-BAF7-54BE67E3F83B}</ProjectGuid>
+    <ProjectGuid>{5AFE043A-78A6-4E0D-97C7-5DD2F7434799}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_009_AnominousMethod</RootNamespace>
-    <AssemblyName>009-AnominousMethod</AssemblyName>
+    <RootNamespace>_010_LambadaExpression</RootNamespace>
+    <AssemblyName>010-LambadaExpression</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
