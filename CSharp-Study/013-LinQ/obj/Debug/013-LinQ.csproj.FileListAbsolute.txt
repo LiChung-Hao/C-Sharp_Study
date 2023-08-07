@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\bin\Debug\013-LinQ.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\bin\Debug\013-LinQ.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\bin\Debug\013-LinQ.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\obj\Debug\013-LinQ.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\obj\Debug\013-LinQ.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\obj\Debug\013-LinQ.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\obj\Debug\013-LinQ.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\013-LinQ\obj\Debug\013-LinQ.pdb

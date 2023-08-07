@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\bin\Debug\011-Event.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\bin\Debug\011-Event.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\bin\Debug\011-Event.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\obj\Debug\011-Event.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\obj\Debug\011-Event.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\obj\Debug\011-Event.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\obj\Debug\011-Event.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\011-Event\obj\Debug\011-Event.pdb
