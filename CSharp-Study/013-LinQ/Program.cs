@@ -52,7 +52,36 @@ namespace _013_LinQ
 
             //Use LinQ in expansion expression
             //var res = masterList.Where(Filter);
-            var res = masterList.Where(m=>m.Level>8 && m.Age>49); //Lambda expression
+            //var res = masterList.Where(m => m.Level > 8 && m.Age > 49); //Lambda expression
+
+
+            //Use union LinQ -p28
+            //var res = from m in masterList
+            //          from k in kungfuList //check these two lists combine (11*4)
+            //          where m.Kungfu == k.Name && k.Power > 30
+            //          //select new { mm = m, kk = k }; //create new list (11*4)
+            //          select m;
+
+            // Use union LinQ in expansion expression -p29
+            //var res = masterList.SelectMany(m => kungfuList, (m, k) => new { mm = m, kk = k }).Where
+            //    (x => x.mm.Kungfu == x.kk.Name && x.kk.Power > 30);
+
+            //Use union LinQ orderby -p30
+            //var res = from m in masterList
+            //          from k in kungfuList
+            //          where m.Kungfu == k.Name && k.Power > 20
+            //          //orderby m.Level
+            //          orderby m.Level,m.Age descending //order by 2 factors, if first factor same, then order in second factor
+            //          select m;
+
+            //in expansion expression -p30
+            //var res = masterList.Where(m => m.Menpai == "Mafia" && m.Age > 10).OrderBy(m => m.Level).ThenByDescending(m => m.Age);
+
+            //join on ==> union combination - p31
+            var res = from m in masterList
+                      join k in kungfuList on m.Kungfu equals k.Name //after on is the condition
+                      where k.Power<22
+                      select new { mm = m, kk = k };
             foreach (var m in res)
             {
                 Console.WriteLine(m.ToString());
