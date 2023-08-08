@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _013_LinQ
 {
-    internal class Program
+    internal class Programs
     {
         static void Main(string[] args)
         {
@@ -78,15 +78,35 @@ namespace _013_LinQ
             //var res = masterList.Where(m => m.Menpai == "Mafia" && m.Age > 10).OrderBy(m => m.Level).ThenByDescending(m => m.Age);
 
             //join on ==> union combination - p31
-            var res = from m in masterList
-                      join k in kungfuList on m.Kungfu equals k.Name //after on is the condition
-                      where k.Power<22
-                      select new { mm = m, kk = k };
-            foreach (var m in res)
-            {
-                Console.WriteLine(m.ToString());
-                //Console.WriteLine(m);//Same as above
-            }
+            //var res = from m in masterList
+            //          join k in kungfuList on m.Kungfu equals k.Name //after on is the condition
+            //          where k.Power<22
+            //          select new { mm = m, kk = k };
+
+            //check each group and place them in order -p32
+            //var res = from k in kungfuList
+            //          join m in masterList on k.Name equals m.Kungfu
+            //          into groups
+            //          orderby groups.Count()
+            //          select new { kk = k, count = groups.Count() };
+
+            //group within the same group -p33
+            //var res = from m in masterList
+            //          group m by m.Menpai
+            //        into g
+            //          select new { count = g.Count(), key = g.Key }; //Key means the factor to group
+
+            //any, check if it is in the list/ all, all are -p34
+            //bool res = masterList.Any(m => m.Menpai == "Hawks");
+            //Console.WriteLine(res);
+            //bool res = masterList.All(m => m.Id > 5);
+            //Console.WriteLine(res);
+
+            //foreach (var m in res)
+            //{
+            //    Console.WriteLine(m.ToString());
+            //    //Console.WriteLine(m);//Same as above
+            //}
 
             bool Filter(MarticalArt marticalArt)
             {
