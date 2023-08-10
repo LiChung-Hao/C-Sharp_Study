@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\bin\Debug\014-ReflectionAndAttribution.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\bin\Debug\014-ReflectionAndAttribution.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\bin\Debug\014-ReflectionAndAttribution.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\obj\Debug\014-ReflectionAndAttribution.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\obj\Debug\014-ReflectionAndAttribution.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\obj\Debug\014-ReflectionAndAttribution.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\obj\Debug\014-ReflectionAndAttribution.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\014-ReflectionAndAttribution\obj\Debug\014-ReflectionAndAttribution.pdb
