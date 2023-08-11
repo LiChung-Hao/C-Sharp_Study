@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014-ReflectionAndAttributio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015-Attribution", "015-Attribution\015-Attribution.csproj", "{E9619FDB-81E9-4ECA-9102-A98651417FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016-ThreadCalledThroughDelegate", "016-ThreadCalledThroughDelegate\016-ThreadCalledThroughDelegate.csproj", "{733430EB-1A18-4366-9217-D25564987FED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E9619FDB-81E9-4ECA-9102-A98651417FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9619FDB-81E9-4ECA-9102-A98651417FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9619FDB-81E9-4ECA-9102-A98651417FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733430EB-1A18-4366-9217-D25564987FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733430EB-1A18-4366-9217-D25564987FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733430EB-1A18-4366-9217-D25564987FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733430EB-1A18-4366-9217-D25564987FED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

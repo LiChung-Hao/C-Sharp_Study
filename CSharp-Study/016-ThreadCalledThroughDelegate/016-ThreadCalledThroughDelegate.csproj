@@ -7,7 +7,7 @@
     <ProjectGuid>{733430EB-1A18-4366-9217-D25564987FED}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_016_ThreadCalledThroughDelegate</RootNamespace>
-    <AssemblyName>_016_ThreadCalledThroughDelegate</AssemblyName>
+    <AssemblyName>016-ThreadCalledThroughDelegate</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

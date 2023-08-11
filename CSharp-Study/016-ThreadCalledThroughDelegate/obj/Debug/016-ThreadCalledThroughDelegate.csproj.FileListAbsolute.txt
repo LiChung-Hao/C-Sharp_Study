@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\bin\Debug\016-ThreadCalledThroughDelegate.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\bin\Debug\016-ThreadCalledThroughDelegate.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\bin\Debug\016-ThreadCalledThroughDelegate.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\obj\Debug\016-ThreadCalledThroughDelegate.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\obj\Debug\016-ThreadCalledThroughDelegate.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\obj\Debug\016-ThreadCalledThroughDelegate.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\obj\Debug\016-ThreadCalledThroughDelegate.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\016-ThreadCalledThroughDelegate\obj\Debug\016-ThreadCalledThroughDelegate.pdb
