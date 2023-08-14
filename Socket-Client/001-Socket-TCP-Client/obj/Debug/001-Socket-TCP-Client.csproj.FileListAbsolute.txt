@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\bin\Debug\001-Socket-TCP-Client.exe.config
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\bin\Debug\001-Socket-TCP-Client.exe
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\bin\Debug\001-Socket-TCP-Client.pdb
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\obj\Debug\001-Socket-TCP-Client.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\obj\Debug\001-Socket-TCP-Client.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\obj\Debug\001-Socket-TCP-Client.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\obj\Debug\001-Socket-TCP-Client.exe
+D:\C-Sharp\yt-mandarin\Socket-Client\001-Socket-TCP-Client\obj\Debug\001-Socket-TCP-Client.pdb

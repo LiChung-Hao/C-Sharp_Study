@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019-Thread-Task", "019-Thre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020-Thread-RaceCondition", "020-Thread-RaceCondition\020-Thread-RaceCondition.csproj", "{06BDBB9C-80ED-41DD-813E-53500ECD21FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-Socket-TCP-Server", "021-Socket-TCP\021-Socket-TCP-Server.csproj", "{8EECDB44-2FDD-49E0-85B7-381096661620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{06BDBB9C-80ED-41DD-813E-53500ECD21FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06BDBB9C-80ED-41DD-813E-53500ECD21FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06BDBB9C-80ED-41DD-813E-53500ECD21FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EECDB44-2FDD-49E0-85B7-381096661620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EECDB44-2FDD-49E0-85B7-381096661620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EECDB44-2FDD-49E0-85B7-381096661620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EECDB44-2FDD-49E0-85B7-381096661620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
