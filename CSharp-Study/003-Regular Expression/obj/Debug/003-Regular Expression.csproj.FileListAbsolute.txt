@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\bin\Debug\003-Regular Expression.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\bin\Debug\003-Regular Expression.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\bin\Debug\003-Regular Expression.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\obj\Debug\003-Regular Expression.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\obj\Debug\003-Regular Expression.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\obj\Debug\003-Regular Expression.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\obj\Debug\003-Regular Expression.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\003-Regular Expression\obj\Debug\003-Regular Expression.pdb

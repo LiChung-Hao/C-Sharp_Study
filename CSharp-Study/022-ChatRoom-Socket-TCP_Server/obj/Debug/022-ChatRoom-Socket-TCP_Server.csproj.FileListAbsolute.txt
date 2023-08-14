@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\bin\Debug\022-ChatRoom-Socket-TCP_Server.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\bin\Debug\022-ChatRoom-Socket-TCP_Server.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\obj\Debug\022-ChatRoom-Socket-TCP_Server.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\obj\Debug\022-ChatRoom-Socket-TCP_Server.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\obj\Debug\022-ChatRoom-Socket-TCP_Server.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\obj\Debug\022-ChatRoom-Socket-TCP_Server.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\obj\Debug\022-ChatRoom-Socket-TCP_Server.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\022-ChatRoom-Socket-TCP_Server\bin\Debug\022-ChatRoom-Socket-TCP_Server.pdb

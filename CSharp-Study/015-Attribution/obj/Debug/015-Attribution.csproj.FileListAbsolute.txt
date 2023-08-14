@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\bin\Debug\015-Attribution.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\bin\Debug\015-Attribution.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\bin\Debug\015-Attribution.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\obj\Debug\015-Attribution.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\obj\Debug\015-Attribution.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\obj\Debug\015-Attribution.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\obj\Debug\015-Attribution.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\015-Attribution\obj\Debug\015-Attribution.pdb

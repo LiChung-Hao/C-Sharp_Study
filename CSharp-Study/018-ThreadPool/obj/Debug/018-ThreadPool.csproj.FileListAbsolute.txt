@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\bin\Debug\018-ThreadPool.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\bin\Debug\018-ThreadPool.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\bin\Debug\018-ThreadPool.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\obj\Debug\018-ThreadPool.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\obj\Debug\018-ThreadPool.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\obj\Debug\018-ThreadPool.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\obj\Debug\018-ThreadPool.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\018-ThreadPool\obj\Debug\018-ThreadPool.pdb

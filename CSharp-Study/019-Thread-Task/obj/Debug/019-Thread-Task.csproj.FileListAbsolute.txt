@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\bin\Debug\019-Thread-Task.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\bin\Debug\019-Thread-Task.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\bin\Debug\019-Thread-Task.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\obj\Debug\019-Thread-Task.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\obj\Debug\019-Thread-Task.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\obj\Debug\019-Thread-Task.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\obj\Debug\019-Thread-Task.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\019-Thread-Task\obj\Debug\019-Thread-Task.pdb

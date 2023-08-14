@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\bin\Debug\004-DelegateIntro.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\bin\Debug\004-DelegateIntro.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\bin\Debug\004-DelegateIntro.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\obj\Debug\004-DelegateIntro.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\obj\Debug\004-DelegateIntro.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\obj\Debug\004-DelegateIntro.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\obj\Debug\004-DelegateIntro.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\004-DelegateIntro\obj\Debug\004-DelegateIntro.pdb

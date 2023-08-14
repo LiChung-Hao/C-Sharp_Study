@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\bin\Debug\017-Thread-StartThreadThroughThreadClass.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\bin\Debug\017-Thread-StartThreadThroughThreadClass.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\bin\Debug\017-Thread-StartThreadThroughThreadClass.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\obj\Debug\017-Thread-StartThreadThroughThreadClass.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\obj\Debug\017-Thread-StartThreadThroughThreadClass.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\obj\Debug\017-Thread-StartThreadThroughThreadClass.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\obj\Debug\017-Thread-StartThreadThroughThreadClass.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\017-Thread-StartThreadThroughThreadClass\obj\Debug\017-Thread-StartThreadThroughThreadClass.pdb

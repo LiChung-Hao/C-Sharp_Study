@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\bin\Debug\006-Func Delegate.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\bin\Debug\006-Func Delegate.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\bin\Debug\006-Func Delegate.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\obj\Debug\006-Func Delegate.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\obj\Debug\006-Func Delegate.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\obj\Debug\006-Func Delegate.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\obj\Debug\006-Func Delegate.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\006-Func Delegate\obj\Debug\006-Func Delegate.pdb

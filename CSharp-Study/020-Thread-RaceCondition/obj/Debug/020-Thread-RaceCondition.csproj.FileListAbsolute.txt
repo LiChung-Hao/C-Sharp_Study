@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\bin\Debug\020-Thread-RaceCondition.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\bin\Debug\020-Thread-RaceCondition.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\bin\Debug\020-Thread-RaceCondition.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\obj\Debug\020-Thread-RaceCondition.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\obj\Debug\020-Thread-RaceCondition.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\obj\Debug\020-Thread-RaceCondition.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\obj\Debug\020-Thread-RaceCondition.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\020-Thread-RaceCondition\obj\Debug\020-Thread-RaceCondition.pdb

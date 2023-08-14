@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\bin\Debug\010-LambadaExpression.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\bin\Debug\010-LambadaExpression.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\bin\Debug\010-LambadaExpression.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\obj\Debug\010-LambadaExpression.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\obj\Debug\010-LambadaExpression.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\obj\Debug\010-LambadaExpression.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\obj\Debug\010-LambadaExpression.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\010-LambadaExpression\obj\Debug\010-LambadaExpression.pdb

@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\bin\Debug\021-Socket-TCP.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\bin\Debug\021-Socket-TCP.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\bin\Debug\021-Socket-TCP.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\obj\Debug\021-Socket-TCP-Server.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\obj\Debug\021-Socket-TCP-Server.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\obj\Debug\021-Socket-TCP-Server.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\obj\Debug\021-Socket-TCP.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\021-Socket-TCP\obj\Debug\021-Socket-TCP.pdb

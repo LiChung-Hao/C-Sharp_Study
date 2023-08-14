@@ -1,8 +1,0 @@
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\bin\Debug\012-Project-ObserverDesignStyle.exe.config
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\bin\Debug\012-Project-ObserverDesignStyle.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\bin\Debug\012-Project-ObserverDesignStyle.pdb
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\obj\Debug\012-Project-ObserverDesignStyle.csproj.AssemblyReference.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\obj\Debug\012-Project-ObserverDesignStyle.csproj.SuggestedBindingRedirects.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\obj\Debug\012-Project-ObserverDesignStyle.csproj.CoreCompileInputs.cache
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\obj\Debug\012-Project-ObserverDesignStyle.exe
-D:\C-Sharp\yt-mandarin\CSharp-Study\012-Project-ObserverDesignStyle\obj\Debug\012-Project-ObserverDesignStyle.pdb

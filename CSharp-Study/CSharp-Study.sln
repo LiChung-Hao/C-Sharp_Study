@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020-Thread-RaceCondition", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-Socket-TCP-Server", "021-Socket-TCP\021-Socket-TCP-Server.csproj", "{8EECDB44-2FDD-49E0-85B7-381096661620}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022-ChatRoom-Socket-TCP_Server", "022-ChatRoom-Socket-TCP_Server\022-ChatRoom-Socket-TCP_Server.csproj", "{776EE12E-BD98-4658-A3DC-2AA3291EEC45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{8EECDB44-2FDD-49E0-85B7-381096661620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EECDB44-2FDD-49E0-85B7-381096661620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EECDB44-2FDD-49E0-85B7-381096661620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776EE12E-BD98-4658-A3DC-2AA3291EEC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776EE12E-BD98-4658-A3DC-2AA3291EEC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776EE12E-BD98-4658-A3DC-2AA3291EEC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776EE12E-BD98-4658-A3DC-2AA3291EEC45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
