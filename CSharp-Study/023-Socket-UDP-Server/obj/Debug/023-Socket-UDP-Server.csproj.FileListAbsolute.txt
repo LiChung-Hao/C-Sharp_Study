@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\bin\Debug\023-Socket-UDP-Server.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\bin\Debug\023-Socket-UDP-Server.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\bin\Debug\023-Socket-UDP-Server.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\obj\Debug\023-Socket-UDP-Server.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\obj\Debug\023-Socket-UDP-Server.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\obj\Debug\023-Socket-UDP-Server.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\obj\Debug\023-Socket-UDP-Server.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\023-Socket-UDP-Server\obj\Debug\023-Socket-UDP-Server.pdb
