@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\bin\Debug\003-Socket-TCPClient.exe.config
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\bin\Debug\003-Socket-TCPClient.exe
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\bin\Debug\003-Socket-TCPClient.pdb
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\obj\Debug\003-Socket-TCPClient.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\obj\Debug\003-Socket-TCPClient.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\obj\Debug\003-Socket-TCPClient.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\obj\Debug\003-Socket-TCPClient.exe
+D:\C-Sharp\yt-mandarin\Socket-Client\003-Socket-TCPClient\obj\Debug\003-Socket-TCPClient.pdb

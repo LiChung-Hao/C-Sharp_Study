@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\bin\Debug\024-Socket-TCPListener.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\bin\Debug\024-Socket-TCPListener.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\bin\Debug\024-Socket-TCPListener.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\obj\Debug\024-Socket-TCPListener.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\obj\Debug\024-Socket-TCPListener.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\obj\Debug\024-Socket-TCPListener.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\obj\Debug\024-Socket-TCPListener.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\024-Socket-TCPListener\obj\Debug\024-Socket-TCPListener.pdb

@@ -1,0 +1,8 @@
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\bin\Debug\004-Socket-UdpClient.exe.config
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\bin\Debug\004-Socket-UdpClient.exe
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\bin\Debug\004-Socket-UdpClient.pdb
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\obj\Debug\004-Socket-UdpClient.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\obj\Debug\004-Socket-UdpClient.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\obj\Debug\004-Socket-UdpClient.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\obj\Debug\004-Socket-UdpClient.exe
+D:\C-Sharp\yt-mandarin\Socket-Client\004-Socket-UdpClient\obj\Debug\004-Socket-UdpClient.pdb
