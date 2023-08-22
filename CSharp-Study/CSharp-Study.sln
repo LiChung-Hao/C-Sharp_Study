@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028-FileStream-ToReadFile",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029-StreamReader-StreamWriter--ReadWriteFile", "029-StreamReader-StreamWriter--ReadWriteFile\029-StreamReader-StreamWriter--ReadWriteFile.csproj", "{12A899C6-6C20-4603-B158-302448C8196D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030-XML", "030-XML\030-XML.csproj", "{C4CF3974-6986-4991-B23D-BE155C324CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031-XML-MorePractice", "031-XML-MorePractice\031-XML-MorePractice.csproj", "{B1C968A0-7318-4749-8ECC-10F7523B9DBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{12A899C6-6C20-4603-B158-302448C8196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A899C6-6C20-4603-B158-302448C8196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A899C6-6C20-4603-B158-302448C8196D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CF3974-6986-4991-B23D-BE155C324CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CF3974-6986-4991-B23D-BE155C324CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CF3974-6986-4991-B23D-BE155C324CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CF3974-6986-4991-B23D-BE155C324CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

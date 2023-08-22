@@ -1,0 +1,55 @@
+﻿<Letters>
+	<LetterList>
+		<letter>
+			<id>1</id>
+			<name from="Mex" favfood="pizza">Joana</name>
+			<content>Hola! Como esta?</content>
+		</letter>
+		<letter>
+			<id>2</id>
+			<name from="Rus" favfood="cavier">Mikhaile</name>
+			<content>Halafushion, DADADA</content>
+		</letter>
+		<letter>
+			<id>3</id>
+			<name from="kor" favfood="kinchi">HyangSu</name>
+			<content>Chiu le!!</content>
+		</letter>
+		<letter>
+			<id>4</id>
+			<name from="Mex" favfood="tacos">Cesar</name>
+			<content>Buenos dias! giero jugar tennis!</content>
+		</letter>
+		<letter>
+			<id>5</id>
+			<name from="Ca" favfood="burger">Josh</name>
+			<content>I am portugies</content>
+		</letter>
+		<letter>
+			<id>6</id>
+			<name from="kor" favfood="bbq">Hyanghoe</name>
+			<content>Chiu le!! Shie ba!</content>
+		</letter>
+		<letter>
+			<id>7</id>
+			<name from="Mex" favfood="tomato">Zabdi</name>
+			<content>Commo te llamas?</content>
+		</letter>
+		<letter>
+			<id>8</id>
+			<name from="Rus" favfood="vodka">Putin</name>
+			<content>Nie! sdjfm kdf;lksdf</content>
+		</letter>
+		<letter>
+			<id>9</id>
+			<name from="kor" favfood="rice">Jung Un</name>
+			<content>ManSei!</content>
+		</letter>
+		<letter>
+			<id>10</id>
+			<name from="Mex" favfood="aqua">Mario</name>
+			<content>totos dias!!!!</content>
+		</letter>
+	</LetterList>
+	
+</Letters>

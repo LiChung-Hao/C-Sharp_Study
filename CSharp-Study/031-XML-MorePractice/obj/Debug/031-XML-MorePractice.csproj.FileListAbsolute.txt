@@ -1,0 +1,9 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\bin\Debug\LetterInfo.txt
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\bin\Debug\031-XML-MorePractice.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\bin\Debug\031-XML-MorePractice.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\bin\Debug\031-XML-MorePractice.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\obj\Debug\031-XML-MorePractice.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\obj\Debug\031-XML-MorePractice.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\obj\Debug\031-XML-MorePractice.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\obj\Debug\031-XML-MorePractice.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\031-XML-MorePractice\obj\Debug\031-XML-MorePractice.pdb

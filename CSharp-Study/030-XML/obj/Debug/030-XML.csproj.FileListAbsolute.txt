@@ -1,0 +1,9 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\bin\Debug\TextFile1.txt
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\bin\Debug\030-XML.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\bin\Debug\030-XML.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\bin\Debug\030-XML.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\obj\Debug\030-XML.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\obj\Debug\030-XML.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\obj\Debug\030-XML.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\obj\Debug\030-XML.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\030-XML\obj\Debug\030-XML.pdb

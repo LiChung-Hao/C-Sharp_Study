@@ -1,0 +1,22 @@
+﻿<Letters>
+	<letter>
+		<id>1</id>
+		<name from="Mex">Joana</name>
+		<content>Hola! Como esta?</content>
+	</letter>
+	<letter>
+		<id>2</id>
+		<name from="Rus">Mikhaile</name>
+		<content>Halafushion, DADADA</content>
+	</letter>
+	<letter>
+		<id>3</id>
+		<name from="kor">HyangSu</name>
+		<content>Chiu le!!</content>
+	</letter>
+	<letter>
+		<id>4</id>
+		<name from="Mex">Cesar</name>
+		<content>Buenos dias! giero jugar tennis!</content>
+	</letter>
+</Letters>
