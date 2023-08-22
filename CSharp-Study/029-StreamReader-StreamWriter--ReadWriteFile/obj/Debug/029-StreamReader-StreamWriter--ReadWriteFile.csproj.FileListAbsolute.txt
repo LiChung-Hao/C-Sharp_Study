@@ -1,0 +1,9 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\bin\Debug\TextFile1.txt
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\bin\Debug\029-StreamReader-StreamWriter--ReadWriteFile.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\bin\Debug\029-StreamReader-StreamWriter--ReadWriteFile.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\bin\Debug\029-StreamReader-StreamWriter--ReadWriteFile.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\obj\Debug\029-StreamReader-StreamWriter--ReadWriteFile.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\obj\Debug\029-StreamReader-StreamWriter--ReadWriteFile.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\obj\Debug\029-StreamReader-StreamWriter--ReadWriteFile.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\obj\Debug\029-StreamReader-StreamWriter--ReadWriteFile.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\029-StreamReader-StreamWriter--ReadWriteFile\obj\Debug\029-StreamReader-StreamWriter--ReadWriteFile.pdb

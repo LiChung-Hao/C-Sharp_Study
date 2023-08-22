@@ -1,0 +1,10 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\bin\Debug\TextFile1.txt
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\bin\Debug\028-FileStream-ToReadFile.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\bin\Debug\028-FileStream-ToReadFile.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\bin\Debug\028-FileStream-ToReadFile.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\obj\Debug\028-FileStream-ToReadFile.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\obj\Debug\028-FileStream-ToReadFile.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\obj\Debug\028-FileStream-ToReadFile.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\obj\Debug\028-FileStream-ToReadFile.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\obj\Debug\028-FileStream-ToReadFile.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\028-FileStream-ToReadFile\bin\Debug\num1-8.png

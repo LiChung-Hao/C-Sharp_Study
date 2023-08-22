@@ -53,6 +53,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024-Socket-TCPListener", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025-Socket-UdpClient", "025-Socket-UdpClient\025-Socket-UdpClient.csproj", "{30DEC8B8-F4D7-4599-9A49-F6E1ECD97347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026-FileInfo-CheckFileAndFolderInfo", "026-FileInfo-CheckFileAndFolderInfo\026-FileInfo-CheckFileAndFolderInfo.csproj", "{85E1A7E3-671E-4752-927F-555BE713E57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027-File-UseFileToEditRead", "027-File-UseFileToEditRead\027-File-UseFileToEditRead.csproj", "{2A31BF22-46F3-476B-9A13-FB426F532D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028-FileStream-ToReadFile", "028-FileStream-ToReadFile\028-FileStream-ToReadFile.csproj", "{731146C9-F724-43A0-927C-47554D741BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029-StreamReader-StreamWriter--ReadWriteFile", "029-StreamReader-StreamWriter--ReadWriteFile\029-StreamReader-StreamWriter--ReadWriteFile.csproj", "{12A899C6-6C20-4603-B158-302448C8196D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +167,22 @@ Global
 		{30DEC8B8-F4D7-4599-9A49-F6E1ECD97347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30DEC8B8-F4D7-4599-9A49-F6E1ECD97347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30DEC8B8-F4D7-4599-9A49-F6E1ECD97347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E1A7E3-671E-4752-927F-555BE713E57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E1A7E3-671E-4752-927F-555BE713E57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E1A7E3-671E-4752-927F-555BE713E57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E1A7E3-671E-4752-927F-555BE713E57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A31BF22-46F3-476B-9A13-FB426F532D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A31BF22-46F3-476B-9A13-FB426F532D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A31BF22-46F3-476B-9A13-FB426F532D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A31BF22-46F3-476B-9A13-FB426F532D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731146C9-F724-43A0-927C-47554D741BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731146C9-F724-43A0-927C-47554D741BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731146C9-F724-43A0-927C-47554D741BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731146C9-F724-43A0-927C-47554D741BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A899C6-6C20-4603-B158-302448C8196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A899C6-6C20-4603-B158-302448C8196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A899C6-6C20-4603-B158-302448C8196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A899C6-6C20-4603-B158-302448C8196D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

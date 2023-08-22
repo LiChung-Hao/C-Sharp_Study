@@ -1,0 +1,9 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\bin\Debug\026-FileInfo-CheckFileAndFolderInfo.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\bin\Debug\026-FileInfo-CheckFileAndFolderInfo.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\bin\Debug\026-FileInfo-CheckFileAndFolderInfo.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\obj\Debug\026-FileInfo-CheckFileAndFolderInfo.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\obj\Debug\026-FileInfo-CheckFileAndFolderInfo.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\obj\Debug\026-FileInfo-CheckFileAndFolderInfo.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\obj\Debug\026-FileInfo-CheckFileAndFolderInfo.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\obj\Debug\026-FileInfo-CheckFileAndFolderInfo.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\026-FileInfo-CheckFileAndFolderInfo\bin\Debug\TextFile1.txt
