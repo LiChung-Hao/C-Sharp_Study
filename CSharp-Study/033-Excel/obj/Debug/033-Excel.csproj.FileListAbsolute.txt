@@ -1,0 +1,9 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\bin\Debug\Contact.xlsx
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\bin\Debug\033-Excel.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\bin\Debug\033-Excel.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\bin\Debug\033-Excel.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\obj\Debug\033-Excel.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\obj\Debug\033-Excel.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\obj\Debug\033-Excel.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\obj\Debug\033-Excel.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\033-Excel\obj\Debug\033-Excel.pdb

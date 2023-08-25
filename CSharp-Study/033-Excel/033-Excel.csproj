@@ -7,7 +7,7 @@
     <ProjectGuid>{016C91B9-74E4-4D7A-8547-478E8ACA3533}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_033_Excel</RootNamespace>
-    <AssemblyName>_033_Excel</AssemblyName>
+    <AssemblyName>033-Excel</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Contact.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
