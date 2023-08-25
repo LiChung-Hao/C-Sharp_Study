@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030-XML", "030-XML\030-XML.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031-XML-MorePractice", "031-XML-MorePractice\031-XML-MorePractice.csproj", "{B1C968A0-7318-4749-8ECC-10F7523B9DBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032-JSON", "032-JSON\032-JSON.csproj", "{3CA6E939-7024-4617-85F8-E700D547F8F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1C968A0-7318-4749-8ECC-10F7523B9DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA6E939-7024-4617-85F8-E700D547F8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA6E939-7024-4617-85F8-E700D547F8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA6E939-7024-4617-85F8-E700D547F8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA6E939-7024-4617-85F8-E700D547F8F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\bin\Debug\032-JSON.exe.config
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\bin\Debug\032-JSON.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\bin\Debug\032-JSON.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\bin\Debug\LitJSON.dll
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\obj\Debug\032-JSON.csproj.AssemblyReference.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\obj\Debug\032-JSON.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\obj\Debug\032-JSON.csproj.CoreCompileInputs.cache
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\obj\Debug\032-JSON.csproj.CopyComplete
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\obj\Debug\032-JSON.exe
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\obj\Debug\032-JSON.pdb
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\bin\Debug\TextFile1.txt
+D:\C-Sharp\yt-mandarin\CSharp-Study\032-JSON\bin\Debug\TextFile2.txt
